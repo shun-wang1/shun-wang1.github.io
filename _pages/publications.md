@@ -5,17 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=7qbQgGYAAAAJ&hl">my Google Scholar profile</a></u>. 
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=7qbQgGYAAAAJ&hl">my Google Scholar profile</a></u> and <u><a href="https://orcid.org/0000-0002-5766-6220">ORCID</a></u> . 
 
 ## Journal Papers  
 <sup>*</sup> Corresponding author   
 
 - **Shun Wang**, Yongbo Li*, Khandaker Noman, Zhixiong Li, Ke Feng, Zheng Liu, Zichen Deng. Multivariate multiscale dispersion Lempel-Ziv complexity for fault diagnosis of machinery with multiple channels. _Information Fusion_, 2023.   
 doi: [https://doi.org/10.1016/j.inffus.2023.102152](https://doi.org/10.1016/j.inffus.2023.102152)  
+[[PDF]](/files/Multivariate_multiscale_dispersion_Lempel–Ziv_complexity.pdf)
 
 
 - **Shun Wang**, Yongbo Li*, Khandaker Noman, Dong Wang, Ke Feng, Zheng Liu, Zichen Deng. Cumulative spectrum distribution entropy for rotating machinery fault diagnosis. _Mechanical Systems and Signal Processing_, 2024, 206: 110905.  
 doi: [https://doi.org/10.1016/j.ymssp.2023.110905](https://doi.org/10.1016/j.ymssp.2023.110905)  
+[[PDF]](/files/Cumulative_spectrum_distribution_entropy.pdf)
 
 
 - **Shun Wang**, Yongbo Li*, Shubin Si, Khandaker Noman. Enhanced hierarchical symbolic sample entropy: Efficient tool for fault diagnosis of rotating machinery. _Structural Health Monitoring_. 2023, 22(3):1927-1940.    
@@ -25,7 +27,7 @@ doi: [https://doi.org/10.1177/14759217221116417](https://doi.org/10.1177/1475921
 
 - **Shun Wang**, Yongbo Li*, Jiacong Zhang, Zheng Liu, Zichen Deng. A novel feature extraction method based on symbol-scale diversity entropy and its application for fault diagnosis of rotary machines. _Structural Health Monitoring_, 2023.     
 doi: [https://doi.org/10.1177/14759217231186357](https://doi.org/10.1177/14759217231186357)  
-
+[[PDF]](/files/Symbol-scale_diversity_entropy.pdf)
 
 - Yongbo Li*, **Shun Wang**, Yang Yang, Zichen Deng. Multiscale symbolic fuzzy entropy: An entropy denoising method for weak feature extraction of rotating machinery. _Mechanical Systems and Signal Processing_, 2022, 162: 108052.  .  
 doi: [https://doi.org/10.1016/j.ymssp.2021.108052](https://doi.org/10.1016/j.ymssp.2021.108052)  
@@ -44,7 +46,7 @@ doi: [https://doi.org/10.1016/j.jmsy.2020.05.004](https://doi.org/10.1016/j.jmsy
 
 - Yongbo Li, Zehang Jiao, **Shun Wang**, Ke Feng, Zheng Liu. Cross Diversity Entropy-Based Feature Extraction for Fault Diagnosis of Rotor System. _IEEE/ASME Transactions on Mechatronics_, 2023.
 doi: [https://doi.org/10.1109/TMECH.2023.3318633](https://doi.org/10.1109/TMECH.2023.3318633)  
-
+[[PDF]](/files/Cross_Diversity_Entropy.pdf)
 
 - Khandaker Noman, Yongbo Li*, **Shun Wang**. Continuous Health Monitoring of Rolling Element Bearing Based on Nonlinear Oscillatory Sample Entropy. _IEEE Transactions on Instrumentation and Measurement_. 2022, 71: 1-14.  
 doi: [https://doi.org/10.1109/TIM.2022.3191712](https://doi.org/10.1109/TIM.2022.3191712)  
