@@ -61,12 +61,18 @@ doi: [https://doi.org/10.1109/TII.2020.2980923](https://doi.org/10.1109/TII.2020
 
 
 ## Conference Proceedings  
-- <u>**Shun Wang**</u>, Yongbo Li*. A Novel Nonlinear Analysis Tool: Multi-scale Symbolic Sample Entropy and Its Application in Condition Monitoring of Rotary Machinery, _2020 Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM 2020)_. IEEE, 2020: 1-5.   
+- **<u>Shun Wang</u>**, Yolanda Vidala*, Francesc Pozo. Gearbox fault detection method under unseen working conditions and damage, _Twentieth International Conference on Condition Monitoring and Asset Management (CM 2024)_. 2024. 
+
+
+- **<u>Shun Wang</u>**, Yolanda Vidala*, Francesc Pozo. Two-Dimensional Color Distribution Entropy: Validation and Application on Non-Contact Fault Diagnosis for Induction Motor, _European signal processing conference (EUSIPCO 2024)_. 2024.  
+
+
+- **<u>Shun Wang</u>**, Yongbo Li*. A Novel Nonlinear Analysis Tool: Multi-scale Symbolic Sample Entropy and Its Application in Condition Monitoring of Rotary Machinery, _2020 Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM 2020)_. IEEE, 2020: 1-5.   
 doi: [https://doi.org/10.1109/APARM49247.2020.9209495](https://doi.org/10.1109/APARM49247.2020.9209495)  
 [[PDF]](/files/APARM2020.pdf)  
 
 
-- <u>**Shun Wang**</u>, Yongbo Li*. Refined time-shift multiscale diversity entropy: a novel feature extraction algorithm for fault diagnosis of planetary gearbox, _14th International Conference on Damage Assessment of Structures (DAMAS 2021)_. Journal of Physics: Conference Series. IOP Publishing, 2022, 2184(1): 012010.  
+- **<u>Shun Wang</u>**, Yongbo Li*. Refined time-shift multiscale diversity entropy: a novel feature extraction algorithm for fault diagnosis of planetary gearbox, _14th International Conference on Damage Assessment of Structures (DAMAS 2021)_. Journal of Physics: Conference Series. IOP Publishing, 2022, 2184(1): 012010.  
 doi: [https://doi.org/10.1088/1742-6596/2184/1/012010](https://doi.org/10.1088/1742-6596/2184/1/012010)  
 [[PDF]](/files/DAMAS2021.pdf)  
 
