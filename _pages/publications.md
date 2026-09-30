@@ -1,14 +1,36 @@
----
+﻿---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=7qbQgGYAAAAJ&hl">my Google Scholar profile</a></u> and <u><a href="https://orcid.org/0000-0002-5766-6220">ORCID</a></u> . 
+You can also find my articles on my <u><a href="https://scholar.google.com/citations?user=7qbQgGYAAAAJ&hl">Google Scholar profile</a></u> and <u><a href="https://orcid.org/0000-0002-5766-6220">ORCID</a></u> . 
 
 ## Journal Papers  
 <sup>*</sup> Corresponding author   
+
+- **<u>Shun Wang</u>***, Yolanda Vidal, Jiacong Zhang, Francesc Pozo. Robust unsupervised gearbox fault detection under variable-speed operating conditions. <i style="color: blue;">_Energy and AI_</i>, 2026, 25: 100862.  
+doi: [https://doi.org/10.1016/j.egyai.2026.100862](https://doi.org/10.1016/j.egyai.2026.100862)  
+[[Code]](https://github.com/shun-wang1/SiAE)
+
+
+- **<u>Shun Wang</u>**, Yolanda Vidal*, Francesc Pozo. Recent advances in wind turbine condition monitoring using SCADA data: A state-of-the-art review. <i style="color: blue;">_Reliability Engineering & System Safety_</i>, 2026, 267: 111838.  
+doi: [https://doi.org/10.1016/j.ress.2025.111838](https://doi.org/10.1016/j.ress.2025.111838)
+
+
+- **<u>Shun Wang</u>**, Yolanda Vidal*, Francesc Pozo. An unsupervised approach to early fault detection and performance degradation assessment in bearings. <i style="color: blue;">_Advanced Engineering Informatics_</i>, 2025, 68: 103620.  
+doi: [https://doi.org/10.1016/j.aei.2025.103620](https://doi.org/10.1016/j.aei.2025.103620)  
+[[Code]](https://github.com/shun-wang1/SimUFD)
+
+
+- **<u>Shun Wang</u>**, Yolanda Vidal*, Francesc Pozo. Fault detection in wind turbines using health index monitoring with variational autoencoders. <i style="color: blue;">_Wind Energy Science_</i>, 2025, 10: 2841-2863.  
+doi: [https://doi.org/10.5194/wes-10-2841-2025](https://doi.org/10.5194/wes-10-2841-2025)  
+[[Code]](https://github.com/shun-wang1/wedowind-challenge-ASCE-EMI/tree/main/Solution_ID8)
+
+
+- **<u>Shun Wang</u>**, Yolanda Vidal*, Francesc Pozo. Noncontact fault diagnosis of electrical equipment using modified multiscale two-dimensional color distribution entropy and thermal imaging. <i style="color: blue;">_International Journal of Intelligent Systems_</i>, 2025, 2025(1): 4805844.  
+doi: [https://doi.org/10.1155/int/4805844](https://doi.org/10.1155/int/4805844)
 
 - **<u>Shun Wang</u>**, Yongbo Li*, Khandaker Noman, Zhixiong Li, Ke Feng, Zheng Liu, Zichen Deng. Multivariate multiscale dispersion Lempel-Ziv complexity for fault diagnosis of machinery with multiple channels. <i style="color: blue;">_Information Fusion_</i>, 2024, 104: 102152.   
 doi: [https://doi.org/10.1016/j.inffus.2023.102152](https://doi.org/10.1016/j.inffus.2023.102152)  
@@ -30,12 +52,12 @@ doi: [https://doi.org/10.1177/14759217221116417](https://doi.org/10.1177/1475921
 [[PDF]](/files/Enhanced_hierarchical_symbolic_sample_entropy.pdf)
 
 
-- Yongbo Li*, **<u>Shun Wang</u>**, Yang Yang, Zichen Deng. Multiscale symbolic fuzzy entropy: An entropy denoising method for weak feature extraction of rotating machinery. <i style="color: blue;">_Mechanical Systems and Signal Processing_</i>, 2022, 162: 108052.  .  
+- Yongbo Li*, **<u>Shun Wang</u>**, Yang Yang, Zichen Deng. Multiscale symbolic fuzzy entropy: An entropy denoising method for weak feature extraction of rotating machinery. <i style="color: blue;">_Mechanical Systems and Signal Processing_</i>, 2022, 162: 108052.  
 doi: [https://doi.org/10.1016/j.ymssp.2021.108052](https://doi.org/10.1016/j.ymssp.2021.108052)  
 [[PDF]](/files/Multiscale_symbolic_fuzzy_entropy.pdf)
 
 
-- Yongbo Li*, **<u>Shun Wang</u>**, Ni Li, Zichen Deng. Multiscale symbolic diversity entropy: a novel measurement approach for time-series analysis and its application in fault diagnosis of planetary gearboxes. <i style="color: blue;">_IEEE Transactions on Industrial Informatics_</i>, 2021, 18(2): 1121-1131.  
+- Yongbo Li*, **<u>Shun Wang</u>**, Ni Li, Zichen Deng. Multiscale symbolic diversity entropy: a novel measurement approach for time-series analysis and its application in fault diagnosis of planetary gearboxes. <i style="color: blue;">_IEEE Transactions on Industrial Informatics_</i>, 2022, 18(2): 1121-1131.  
 doi: [https://doi.org/10.1109/TII.2021.3082517](https://doi.org/10.1109/TII.2021.3082517)  
 [[PDF]](/files/Multiscale_symbolic_diversity_entropy.pdf)
 
@@ -47,12 +69,12 @@ doi: [https://doi.org/10.1016/j.jmsy.2020.05.004](https://doi.org/10.1016/j.jmsy
 
 - Yongbo Li, Zehang Jiao, **<u>Shun Wang</u>**, Ke Feng, Zheng Liu. Cross Diversity Entropy-Based Feature Extraction for Fault Diagnosis of Rotor System. <i style="color: blue;">_IEEE/ASME Transactions on Mechatronics_</i>, 2023.
 doi: [https://doi.org/10.1109/TMECH.2023.3318633](https://doi.org/10.1109/TMECH.2023.3318633)  
-[[PDF]](/files/Cross_diversity_entropy.pdf)
+[[PDF]](/files/Cross_Diversity_Entropy.pdf)
 
 
 - Khandaker Noman, Yongbo Li*, **<u>Shun Wang</u>**. Continuous Health Monitoring of Rolling Element Bearing Based on Nonlinear Oscillatory Sample Entropy. <i style="color: blue;">_IEEE Transactions on Instrumentation and Measurement_</i>. 2022, 71: 1-14.  
 doi: [https://doi.org/10.1109/TIM.2022.3191712](https://doi.org/10.1109/TIM.2022.3191712)  
-[[PDF]](/files/Oscillatory_sample_entropy.pdf)
+[[PDF]](/files/Oscillatory_Sample_Entropy.pdf)
 
 
 - Yongbo Li*, Fulong Liu, **<u>Shun Wang</u>**, Jiancheng Yin. Multiscale Symbolic Lempel–Ziv: An Effective Feature Extraction Approach for Fault Diagnosis of Railway Vehicle Systems. <i style="color: blue;">_IEEE Transactions on Industrial Informatics_</i>, 2020, 17(1): 199-208.   
@@ -61,10 +83,16 @@ doi: [https://doi.org/10.1109/TII.2020.2980923](https://doi.org/10.1109/TII.2020
 
 
 ## Conference Proceedings  
-- **<u>Shun Wang</u>**, Yolanda Vidala*, Francesc Pozo. Gearbox fault detection method under unseen working conditions and damage, _Twentieth International Conference on Condition Monitoring and Asset Management (CM 2024)_. 2024. 
+- **<u>Shun Wang</u>**, Yolanda Vidal, Francesc Pozo. Wind turbine gearbox fault detection under distribution shifts, _Eleventh International Conference on Experimental Vibration Analysis for Civil Engineering Structures (EVACES 2025)_. Springer, 2025: 962-969.  
+doi: [https://doi.org/10.1007/978-3-031-96106-9_98](https://doi.org/10.1007/978-3-031-96106-9_98)
 
 
-- **<u>Shun Wang</u>**, Yolanda Vidala*, Francesc Pozo. Two-Dimensional Color Distribution Entropy: Validation and Application on Non-Contact Fault Diagnosis for Induction Motor, _European signal processing conference (EUSIPCO 2024)_. 2024.  
+- **<u>Shun Wang</u>**, Yolanda Vidal*, Francesc Pozo. Gearbox fault detection method under unseen working conditions and damage, _Twentieth International Conference on Condition Monitoring and Asset Management (CM 2024)_. 2024.  
+doi: [https://doi.org/10.1784/cm2024.3b2](https://doi.org/10.1784/cm2024.3b2)  
+
+
+- **<u>Shun Wang</u>**, Yolanda Vidal*, Francesc Pozo. Two-Dimensional Color Distribution Entropy: Validation and Application on Non-Contact Fault Diagnosis for Induction Motor, _European signal processing conference (EUSIPCO 2024)_. 2024.  
+doi: [https://doi.org/10.23919/EUSIPCO63174.2024.10715460](https://doi.org/10.23919/EUSIPCO63174.2024.10715460)  
 
 
 - **<u>Shun Wang</u>**, Yongbo Li*. A Novel Nonlinear Analysis Tool: Multi-scale Symbolic Sample Entropy and Its Application in Condition Monitoring of Rotary Machinery, _2020 Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM 2020)_. IEEE, 2020: 1-5.   
@@ -75,5 +103,7 @@ doi: [https://doi.org/10.1109/APARM49247.2020.9209495](https://doi.org/10.1109/A
 - **<u>Shun Wang</u>**, Yongbo Li*. Refined time-shift multiscale diversity entropy: a novel feature extraction algorithm for fault diagnosis of planetary gearbox, _14th International Conference on Damage Assessment of Structures (DAMAS 2021)_. Journal of Physics: Conference Series. IOP Publishing, 2022, 2184(1): 012010.  
 doi: [https://doi.org/10.1088/1742-6596/2184/1/012010](https://doi.org/10.1088/1742-6596/2184/1/012010)  
 [[PDF]](/files/DAMAS2021.pdf)  
+
+
 
 
